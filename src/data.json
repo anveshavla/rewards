@@ -1,0 +1,122 @@
+[
+    {
+        "transactionId" : 1,
+        "customerId" : "c1",
+        "month" : "Jan",
+        "price" : 110
+    },
+    {
+        "transactionId" : 2,
+        "customerId" : "c2",
+        "month" : "Jan",
+        "price" : 120
+    },
+    {
+        "transactionId" : 3,
+        "customerId" : "c1",
+        "month" : "Jan",
+        "price" : 90
+    },
+    {
+        "transactionId" : 4,
+        "customerId" : "c1",
+        "month" : "Jan",
+        "price" : 70
+    },
+    {
+        "transactionId" : 5,
+        "customerId" : "c3",
+        "month" : "Jan",
+        "price" : 110
+    },
+    {
+        "transactionId" : 6,
+        "customerId" : "c4",
+        "month" : "Jan",
+        "price" : 120
+    },
+    {
+        "transactionId" : 7,
+        "customerId" : "c3",
+        "month" : "Jan",
+        "price" : 90
+    },
+    {
+        "transactionId" : 8,
+        "customerId" : "c4",
+        "month" : "Jan",
+        "price" : 70
+    },
+    {
+        "transactionId" : 9,
+        "customerId" : "c1",
+        "month" : "Feb",
+        "price" : 110
+    },
+    {
+        "transactionId" : 10,
+        "customerId" : "c2",
+        "month" : "Feb",
+        "price" : 220
+    },
+    {
+        "transactionId" : 11,
+        "customerId" : "c3",
+        "month" : "Feb",
+        "price" : 90
+    },
+    {
+        "transactionId" : 12,
+        "customerId" : "c4",
+        "month" : "Feb",
+        "price" : 70
+    },
+    {
+        "transactionId" : 13,
+        "customerId" : "c3",
+        "month" : "Feb",
+        "price" : 80
+    },
+    {
+        "transactionId" : 14,
+        "customerId" : "c4",
+        "month" : "Feb",
+        "price" : 100
+    },
+    {
+        "transactionId" : 15,
+        "customerId" : "c5",
+        "month" : "Feb",
+        "price" : 90
+    },
+    {
+        "transactionId" : 16,
+        "customerId" : "c6",
+        "month" : "Feb",
+        "price" : 70
+    },
+    {
+        "transactionId" : 17,
+        "customerId" : "c5",
+        "month" : "Mar",
+        "price" : 20
+    },
+    {
+        "transactionId" : 18,
+        "customerId" : "c6",
+        "month" : "Mar",
+        "price" : 200
+    },
+    {
+        "transactionId" : 19,
+        "customerId" : "c1",
+        "month" : "Mar",
+        "price" : 210
+    },
+    {
+        "transactionId" : 20,
+        "customerId" : "c7",
+        "month" : "Mar",
+        "price" : 170
+    }
+]
